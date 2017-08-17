@@ -3,5 +3,4 @@ stuff
 3rd line of stuff here
 And a 4th line
 5th line...
-line 6 with merge conflict
-
+line 6 with merge conflict. I win the merge conflict!
