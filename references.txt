@@ -1,3 +1,2 @@
 references text
-
-new stuff
+stuff
